@@ -90,5 +90,15 @@ yarl==1.20.0
 plotly
 vaderSentiment
 deep-translator
+transformers
+torch
+vaderSentiment
+deep-translator
+textblob
+wordcloud
+plotly
+chardet
+pandas
+matplotlib
 
 
