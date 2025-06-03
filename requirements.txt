@@ -1,4 +1,15 @@
-﻿accelerate==1.7.0
+streamlit
+pandas
+matplotlib
+plotly
+vaderSentiment
+deep-translator
+textblob
+wordcloud
+torch
+transformers
+chardet
+accelerate==1.7.0
 aiofiles==24.1.0
 aiohappyeyeballs==2.6.1
 aiohttp==3.12.2
@@ -87,18 +98,5 @@ uvicorn==0.34.2
 websockets==15.0.1
 xxhash==3.5.0
 yarl==1.20.0
-streamlit
-pandas
-matplotlib
-plotly
-vaderSentiment
-deep-translator
-textblob
-wordcloud
-transformers
-torch
-chardet
-sentencepiece
-plotly
 
 
