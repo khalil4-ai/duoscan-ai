@@ -99,5 +99,6 @@ transformers
 torch
 chardet
 sentencepiece
+plotly
 
 
